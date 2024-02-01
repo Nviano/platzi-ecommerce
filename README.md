@@ -1,1 +1,1 @@
-# platzi-ecommerce
+# Platzi ecommerce
